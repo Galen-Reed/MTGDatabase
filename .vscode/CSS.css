@@ -11,3 +11,8 @@
     font-family: sans-serif;
     color: black;
 }
+
+#main{
+    margin: auto;
+    background-image: linear-gradient(black,#2e1c31);
+}
